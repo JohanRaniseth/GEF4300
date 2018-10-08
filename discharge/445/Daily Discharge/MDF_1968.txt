@@ -1,0 +1,46 @@
+Station number: 445
+Location:       Arughat                                                           Latitude: 28 02 37
+River:          Burhi Gandaki                                                    Longitude: 84 48 59
+
+Year:           1968
+
+                                    Mean daily discharge in m3/s
+                                    ============================
+
+Day     Jan.   Feb.   Mar.   Apr.   May    Jun.   Jul.   Aug.   Sep.   Oct.   Nov.   Dec.   Year
+ 01     31.7   26.5   29.1   36.3   92.0    109    303    175   NA     NA     NA     NA  
+ 02     31.7   25.5   23.0   34.8   88.0   99.0    307   NA     NA     NA     NA     NA  
+ 03     31.1   25.0   23.5   34.0   94.0    106    380   NA     NA     NA     NA     NA  
+ 04     31.1   24.5   23.0   34.8    103   97.0    319   NA     NA     NA     NA     NA  
+ 05     31.1   25.0   23.5   39.3   87.0   94.0    400   NA     NA     NA     NA     NA  
+ 06     30.4   24.0   23.0   41.5   86.0    121    340   NA     NA     NA     NA     NA  
+ 07     31.1   24.5   23.0   41.5   88.0    107    390   NA     NA     NA     NA     NA  
+ 08     30.4   24.5   85.0   44.1   87.0    134    360   NA     NA     NA     NA     NA  
+ 09     31.1   24.5   36.3   44.1   79.0    164    340   NA     NA     NA     NA     NA  
+ 10     31.1   24.0   34.8   48.3   78.0    167    360   NA     NA     NA     NA     NA  
+ 11     30.4   24.0   38.5   51.7   77.0    175    340   NA     NA     NA     NA     NA  
+ 12     30.4   24.0   37.8   55.1   91.0    193    436   NA     NA     NA     NA     NA  
+ 13     29.8   24.5   37.8   52.6   89.0    225    486   NA     NA     NA     NA     NA  
+ 14     29.1   24.0   37.8   51.7   88.0    203    548   NA     NA     NA     NA     NA  
+ 15     29.1   24.0   39.3   50.0   83.0    245    515   NA     NA     NA     NA     NA  
+ 16     29.1   24.0   39.3   49.2   83.0    317    360   NA     NA     NA     NA     NA  
+ 17     28.5   23.5   36.3   49.2   74.0    327    396   NA     NA     NA     NA     NA  
+ 18     28.5   23.5   36.3   50.0   75.0    354    450   NA     NA     NA     NA     NA  
+ 19     28.5   23.5   38.5   50.0   81.0    384    440   NA     NA     NA     NA     NA  
+ 20     28.5   23.0   37.8   52.6   90.0    274    537   NA     NA     NA     NA     NA  
+ 21     27.8   22.5   37.0   55.1   94.0    252    400   NA     NA     NA     NA     NA  
+ 22     28.5   22.5   36.3   70.0    102    213    557   NA     NA     NA     NA     NA  
+ 23     28.5   22.5   37.0   66.1    104    211    570   NA     NA     NA     NA     NA  
+ 24     28.5   22.0   36.3   59.5    105    223    426   NA     NA     NA     NA     NA  
+ 25     27.8   22.5   35.5   59.5    109    310    400   NA     NA     NA     NA     NA  
+ 26     26.5   22.0   34.8   58.5    101    336    460   NA     NA     NA     NA     NA  
+ 27     26.5   23.0   34.0   55.1   96.0    400    471   NA     NA     NA     NA     NA  
+ 28     25.5   32.4   36.3   56.8   91.0    356    504   NA     NA     NA     NA     NA  
+ 29     25.0   26.5   38.5   69.0   87.0    344    500   NA     NA     NA     NA     NA  
+ 30     27.2          38.5   90.0   87.0    364    486   NA     NA     NA     NA     NA  
+ 31     26.5          37.0          87.0           438   NA            NA            NA  
+
+Min     25.0   22.0   23.0   34.0   74.0   94.0    303    175   NA     NA     NA     NA     NA  
+Mean    29.1   24.2   35.6   51.7   89.5    230    426   NA     NA     NA     NA     NA     NA  
+Max     31.7   32.4   85.0   90.0    109    400    570    175   NA     NA     NA     NA     NA  
+

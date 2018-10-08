@@ -1,0 +1,46 @@
+Station number: 450
+Location:       Narayan Ghat                                                      Latitude: 27 42 30
+River:          Narayani                                                         Longitude: 84 25 50
+
+Year:           1976
+
+                                    Mean daily discharge in m3/s
+                                    ============================
+
+Day     Jan.   Feb.   Mar.   Apr.   May    Jun.   Jul.   Aug.   Sep.   Oct.   Nov.   Dec.   Year
+ 01      475    331    319    363    213    616   2920   3500   NA     NA     NA     NA  
+ 02      475    331    305    363    248    984   2270   3500   NA     NA     NA     NA  
+ 03      470    327    305    363    248    843   3130   3480   NA     NA     NA     NA  
+ 04      470    327    305    363    283    984   2920   2920   NA     NA     NA     NA  
+ 05      465    312    312    363    248    843   2920   2900   NA     NA     NA     NA  
+ 06      460    312    305    363    514   1420   2270   2900   NA     NA     NA     NA  
+ 07      456    323    305    363    283   1510   2270   2900   NA     NA     NA     NA  
+ 08      456    327    305    363    248   1340   1880   3650   NA     NA     NA     NA  
+ 09      456    319    301    363    248   1740    941   3650   NA     NA     NA     NA  
+ 10      456    319    301    363    248   2970    926   3650   NA     NA     NA     NA  
+ 11      451    319    305    363    248   4600   1480   3650   NA     NA     NA     NA  
+ 12     NA      319    301    363    193   4500    941   3650   NA     NA     NA     NA  
+ 13     NA      319    301    363    193   4500    941   3650   NA     NA     NA     NA  
+ 14     NA      319    301    363    199   4500   1720   3650   NA     NA     NA     NA  
+ 15     NA      319    301    363    199   4500   4100   3650   NA     NA     NA     NA  
+ 16     NA      315    301    367    199   1360   2270   3650   NA     NA     NA     NA  
+ 17     NA      315    312    367    199   1380   5810   4680   NA     NA     NA     NA  
+ 18     NA      315    312    367    199   1390   4970   3920   NA     NA     NA     NA  
+ 19     NA      312    372    367    199   1390   3420   4560   NA     NA     NA     NA  
+ 20     NA      312    367    367    199   2580   3240   3690   NA     NA     NA     NA  
+ 21     NA      312    367    315    245   1620   3170   3730   NA     NA     NA     NA  
+ 22     NA      308    363    323    213   1390   3010   3700   NA     NA     NA     NA  
+ 23     NA      305    363    323    199   1430   3160   3700   NA     NA     NA     NA  
+ 24     NA      308    363    323    199   2270   3140   6340   NA     NA     NA     NA  
+ 25     NA      308    363    327    567   1580   3140   4890   NA     NA     NA     NA  
+ 26     NA      312    363    327    567   1580   3330   4210   NA     NA     NA     NA  
+ 27     NA      305    363    327    567   2270   3500   4200   NA     NA     NA     NA  
+ 28     NA      305    363    323    355   NA     3500   4380   NA     NA     NA     NA  
+ 29     NA      305    363    232    567   3030   3500   4310   NA     NA     NA     NA  
+ 30      335           363    514    605   2270   3500   4030   NA     NA     NA     NA  
+ 31      335           363           605          3500   2850          NA            NA  
+
+Min     NA      305    301    232    193   NA      926   2850   NA     NA     NA     NA     NA  
+Mean    NA      316    330    354    306   NA     2830   3810   NA     NA     NA     NA     NA  
+Max     NA      331    372    514    605   NA     5810   6340   NA     NA     NA     NA     NA  
+

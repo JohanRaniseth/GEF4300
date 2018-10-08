@@ -1,0 +1,46 @@
+Station number: 420
+Location:       Kotagaon Shringe                                                  Latitude: 27 45 00
+River:          Kali Gandaki                                                     Longitude: 84 20 50
+
+Year:           1982
+
+                                    Mean daily discharge in m3/s
+                                    ============================
+
+Day     Jan.   Feb.   Mar.   Apr.   May    Jun.   Jul.   Aug.   Sep.   Oct.   Nov.   Dec.   Year
+ 01     NA      126   99.1   NA     NA     NA     NA     NA     NA     NA     NA     NA  
+ 02     NA      126    113   NA     NA     NA     NA     NA     NA     NA     NA     NA  
+ 03     NA      124    144   NA     NA     NA     NA     NA     NA     NA     NA     NA  
+ 04     NA      118    126   NA     NA     NA     NA     NA     NA     NA     NA     NA  
+ 05     NA      118    112   NA     NA     NA     NA     NA     NA     NA     NA     NA  
+ 06     NA      119    107   NA     NA     NA     NA     NA     NA     NA     NA     NA  
+ 07     NA      116    121   NA     NA     NA     NA     NA     NA     NA     NA     NA  
+ 08     NA      113    136   NA     NA     NA     NA     NA     NA     NA     NA     NA  
+ 09     NA      112    116   NA     NA     NA     NA     NA     NA     NA     NA     NA  
+ 10     NA      112    110   NA     NA     NA     NA     NA     NA     NA     NA     NA  
+ 11     NA      110    107   NA     NA     NA     NA     NA     NA     NA     NA     NA  
+ 12     NA      110    104   NA     NA     NA     NA     NA     NA     NA     NA     NA  
+ 13     NA      110    102   NA     NA     NA     NA     NA     NA     NA     NA     NA  
+ 14      118    109   NA     NA     NA     NA     NA     NA     NA     NA     NA     NA  
+ 15      116    107   NA     NA     NA     NA     NA     NA     NA     NA     NA     NA  
+ 16      116    105   NA     NA     NA     NA     NA     NA     NA     NA     NA     NA  
+ 17      114    105   NA     NA     NA     NA     NA     NA     NA     NA     NA     NA  
+ 18      114    110   NA     NA     NA     NA     NA     NA     NA     NA     NA     NA  
+ 19      113    105   NA     NA     NA     NA     NA     NA     NA     NA     NA     NA  
+ 20      112    103   NA     NA     NA     NA     NA     NA     NA     NA     NA     NA  
+ 21      110    102   NA     NA     NA     NA     NA     NA     NA     NA     NA     NA  
+ 22      110    102   NA     NA     NA     NA     NA     NA     NA     NA     NA     NA  
+ 23      110    100   NA     NA     NA     NA     NA     NA     NA     NA     NA     NA  
+ 24      109   99.1   NA     NA     NA     NA     NA     NA     NA     NA     NA     NA  
+ 25      109   97.9   NA     NA     NA     NA     NA     NA     NA     NA     NA     NA  
+ 26      116   96.7   NA     NA     NA     NA     NA     NA     NA     NA     NA     NA  
+ 27      146   96.7   NA     NA     NA     NA     NA     NA     NA     NA     NA     NA  
+ 28      168   96.7   NA     NA     NA     NA     NA     NA     NA     NA     NA     NA  
+ 29      139          NA     NA     NA     NA     NA     NA     NA     NA     NA     NA  
+ 30      129          NA     NA     NA     NA     NA     NA     NA     NA     NA     NA  
+ 31      122          NA            NA            NA     NA            NA            NA  
+
+Min     NA     96.7   NA     NA     NA     NA     NA     NA     NA     NA     NA     NA     NA  
+Mean    NA      109   NA     NA     NA     NA     NA     NA     NA     NA     NA     NA     NA  
+Max     NA      126   NA     NA     NA     NA     NA     NA     NA     NA     NA     NA     NA  
+
